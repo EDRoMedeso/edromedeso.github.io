@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![CloudConnect](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/CloudConnect) Ansys Mechanical
 
 ![BoltToolkit](images/Bolt_Toolkit_icon.png) [Bolt Toolkit](https://edromedeso.github.io/ACT_BoltToolkit) Ansys Mechanical (Under construction)
