@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: EDRMedeso Productivity Tools for Ansys
+logo: /images/EDR-Medeso_logo.png
 description: Apps (Extensions) for Ansys created by EDRMedeso.
+google_analytics:
+theme: jekyll-theme-minimal
