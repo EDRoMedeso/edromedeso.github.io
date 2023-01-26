@@ -11,4 +11,4 @@ layout: default
 ![ReportGenerator](images/ReportGenerator_icon.png) [Report Generator](https://edromedeso.github.io/ACT_ReportGenerator) Ansys Mechanical (Under construction)
 
 ***
-### [EDRMedeso Productivity Tools](https://digitallabs.edrmedeso.com/appstore)
+### [EDRMedeso Productivity Tools](https://digitallabs.edrmedeso.com/appstore) (On EDRMedeso Home Page)
