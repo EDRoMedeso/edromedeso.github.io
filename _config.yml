@@ -1,5 +1,8 @@
+#Jekyll configuration
 title: EDRMedeso Productivity Tools for Ansys
 logo: /images/EDR-Medeso_logo.png
 description: Apps (Extensions) for Ansys created by EDRMedeso.
+url: "https://edromedeso.github.io"
+markdown: kramdown
 google_analytics:
 theme: jekyll-theme-minimal
