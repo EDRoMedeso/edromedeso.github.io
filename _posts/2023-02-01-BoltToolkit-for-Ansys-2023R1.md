@@ -19,4 +19,4 @@ categories: BoltToolkit 2023R1
 * Cumulative fatigue from grouped bolt fatigue results.
 * Grouped result to combine results (from different linked analyses) in one plot to get an overview and/or to get the max or min from several different load cases.
 
-[Bolt Toolkit](BoltToolkit)
+[Bolt Toolkit](https://edromedeso.github.io/BoltToolkit)
