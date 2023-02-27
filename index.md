@@ -4,4 +4,4 @@
 
 ![WeldToolkit](images/Weld_Toolkit_icon.png) [Weld Toolkit](https://edromedeso.github.io/WeldToolkit) Ansys Mechanical (Site under construction)
 
-![ReportGenerator](images/ReportGenerator_icon.png) [Report Generator](https://edromedeso.github.io/ReportGenerator) Ansys Mechanical (Site under construction)
+![ReportGenerator](images/ReportGenerator_icon.png) [Report Generator](https://edromedeso.github.io/ReportGenerator) Ansys Mechanical
