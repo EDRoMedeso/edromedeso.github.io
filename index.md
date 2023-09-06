@@ -1,4 +1,6 @@
-![CloudConnect](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/cloudconnect_mechanical/) Ansys Mechanical
+![CloudConnect Mechanical](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/cloudconnect_mechanical/) Ansys Mechanical
+
+![CloudConnect Fluent](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/cloudconnect_fluent/) Ansys Fluent
 
 ![BoltToolkit](images/Bolt_Toolkit_icon.png) [Bolt Toolkit](https://edromedeso.github.io/BoltToolkit) Ansys Mechanical
 
