@@ -1,15 +1,19 @@
-# EDRMedeso Paid Apps
+# EDRMedeso Apps
 
-![CloudConnect Mechanical](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/cloudconnect_mechanical/) Ansys Mechanical
+## CloudConnect
 
-![CloudConnect Fluent](images/rescale_icon.png) [CloudConnect](https://edromedeso.github.io/cloudconnect_fluent/) Ansys Fluent
+<img src="images/rescale_icon.png" width="75" height="75"> [CloudConnect](https://edromedeso.github.io/cloudconnect_mechanical/) Ansys Mechanical
 
-![BoltToolkit](images/Bolt_Toolkit_icon.png) [Bolt Toolkit](https://edromedeso.github.io/BoltToolkit) Ansys Mechanical
+<img src="images/rescale_icon.png" width="75" height="75"> [CloudConnect](https://edromedeso.github.io/cloudconnect_fluent/) Ansys Fluent
 
-![WeldToolkit](images/Weld_Toolkit_icon.png) [Weld Toolkit](https://edromedeso.github.io/WeldToolkit) Ansys Mechanical
+## Productivity Tools
 
-![ReportGenerator](images/ReportGenerator_icon.png) [Report Generator](https://edromedeso.github.io/ReportGenerator) Ansys Mechanical
+<img src="images/Bolt_Toolkit_icon.png" width="75" height="75"> [Bolt Toolkit](https://edromedeso.github.io/BoltToolkit) Ansys Mechanical
 
-## EDRMedeso Free Apps
+<img src="images/Weld_Toolkit_icon.png" width="75" height="75"> [Weld Toolkit](https://edromedeso.github.io/WeldToolkit) Ansys Mechanical
 
-![ASMEMatGen_icon](images/ASMEMatGen_icon.png) [ASME Material Generator](https://edromedeso.github.io/ACT_ASME_MaterialGenerator) Ansys Workbench
+<img src="images/ReportGenerator_icon.png" width="75" height="75"> [Report Generator](https://edromedeso.github.io/ReportGenerator) Ansys Mechanical
+
+## Free Apps
+
+<img src="images/ASMEMatGen_icon.png" width="75" height="75"> [ASME Material Generator](https://edromedeso.github.io/ACT_ASME_MaterialGenerator) Ansys Workbench
