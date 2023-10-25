@@ -18,4 +18,4 @@
 
 <img src="images/ASMEMatGen_icon.png" width="75" height="75"> [ASME Material Generator](https://edromedeso.github.io/ACT_ASME_MaterialGenerator) Ansys Workbench
 
-<img src="images/CSVPlot_icon.png" width="75" height="75"> [CSV Plot](https://edromedeso.github.io/ACT_CSV Plot) Ansys Mechanical
+<img src="images/CSVPlot_icon.png" width="75" height="75"> [CSV Plot](https://edromedeso.github.io/ACT_CSVPlot) Ansys Mechanical
