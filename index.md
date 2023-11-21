@@ -23,3 +23,5 @@
 <img src="images/DensityScaling.png" width="75" height="75"> [Density Scaling](https://edromedeso.github.io/ACT_Density_scaling) Ansys Mechanical
 
 <img src="images/ExportFigures_icon.png" width="75" height="75"> [Export Figures](https://edromedeso.github.io/ACT_ExportFigures) Ansys Mechanical
+
+<img src="images/FatigueScanning_Icon.png" width="75" height="75"> [Fatigue Scanning](https://edromedeso.github.io/ACT_FatigueScanning) Ansys Mechanical
