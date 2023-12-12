@@ -29,3 +29,5 @@
 <img src="images/InitialDeformationIcon.png" width="75" height="75"> [Initial Deformation](https://edromedeso.github.io/ACT_Initial_Deformation) Ansys Mechanical
 
 <img src="images/MaterialVar.png" width="75" height="75"> [Material Variation](https://edromedeso.github.io/ACT_Material_Variation) Ansys Mechanical
+
+<img src="images/SoilStiffness_Icon.png" width="75" height="75"> [Soil Stiffness](https://edromedeso.github.io/ACT_Soil_Stiffness) Ansys Mechanical
