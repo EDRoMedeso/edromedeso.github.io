@@ -31,3 +31,5 @@
 <img src="images/MaterialVar.png" width="75" height="75"> [Material Variation](https://edromedeso.github.io/ACT_Material_Variation) Ansys Mechanical
 
 <img src="images/SoilStiffness_Icon.png" width="75" height="75"> [Soil Stiffness](https://edromedeso.github.io/ACT_Soil_Stiffness) Ansys Mechanical
+
+<img src="images/EDRMedeso_support.png" width="75" height="75"> [EDRMedeso Support](https://edromedeso.github.io/support) Tips & Tricks Ansys
